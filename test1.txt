@@ -1,3 +1,7 @@
 hello man
 HELLO MAN ON 2ND LINE VIA GIT HUB ACCOUNT EDIT OPTION
+<<<<<<< HEAD
 add line 3 on via local pc 
+=======
+hello man add via git hub account by using edit option
+>>>>>>> cd56e492df3a8616f2e3975ab407e3d65a34de4a
